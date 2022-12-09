@@ -1,6 +1,6 @@
 - 👋 Hi, 
 My name is Mahfoodh. I am on a self-taught journey, working full time and studying programming  I'm currently pursuing a Full-Stack roadmap.
-- 😍 I’m love coding..
+- 😍 I love coding..
 - 💻 I’m currently learning Javascript.
 - ✉️ You can contact me on mahfoodh.msk@gmail.com
 
